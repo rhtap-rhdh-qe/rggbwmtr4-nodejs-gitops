@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: rggbwmtr4-nodejs-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/rggbwmtr4-nodejs
